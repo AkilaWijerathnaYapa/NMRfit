@@ -24,7 +24,8 @@ NMRfit is a command-line package specifically designed for peak fitting and anal
 
 ![Fig.1. Files and Folders](Figures/Fig.1._Files_and_Folders.JPG)
 
-![Fig.2. Data Folders (Highlighted folders will be analyzed in below example)](Figures/Fig.2._Data_Folders_(Highlighted_folders_will_be_analyzed_in_below_example).JPG)
+![Fig.2. Data Folders (Highlighted folders will be analyzed in below example)](Figures/Fig.2._Data_Folders_%28Highlighted_folders_will_be_analyzed_in_below_example%29.JPG)
+
 
 
 ---
