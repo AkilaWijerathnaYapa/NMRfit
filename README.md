@@ -22,9 +22,9 @@ NMRfit is a command-line package specifically designed for peak fitting and anal
 - **`README.md`**: Documentation for the software package.
 
 
-![Fig.1. Files and Folders](Figures/Fig.1. Files and Folders.JPG)
+![Fig.1. Files and Folders](Figures/Fig.1._Files_and_Folders.JPG)
 
-![Fig.2. Data Folders (Highlighted folders will be analyzed in below example)](Figures/Fig.2. Data Folders (Highlighted folders will be analyzed in below example).JPG)
+![Fig.2. Data Folders (Highlighted folders will be analyzed in below example)](Figures/Fig.2._Data_Folders_(Highlighted_folders_will_be_analyzed_in_below_example).JPG)
 
 
 ---
@@ -46,7 +46,7 @@ start powershell -command "& '.\rnmrfit.exe' *.yaml -o fit"
 This is an example configuration file that defines parameter settings, datasets, species, and processing options for the NMRfit software.
 
 
-![Fig.3. Files in Package folder](Figures/Fig.3. Files in Package folder.JPG)
+![Fig.3. Files in Package folder](Figures/Fig.3._Files_in_Package_folder.JPG)
 
 ---
 ## YAML file settings key Sections
@@ -162,7 +162,7 @@ Modify `optimized.yaml` to customize the software’s behavior:
   
 When the software is executed, the results will be saved in the `Package/fit/optimized/` directory. 
 
-![Fig.4. Output_files](Figures/Fig.4. Output_files.JPG)
+![Fig.4. Output_files](Figures/Fig.4._Output_files.JPG)
 
 Below is a description of the output files generated:
   
