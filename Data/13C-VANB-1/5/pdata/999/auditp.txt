@@ -1,0 +1,16 @@
+##TITLE= Audit trail, TopSpin 4.4.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= kathy
+$$ C:/Users/kathy/OneDrive - Dalhousie University/Graduate School/NMR/RustNMRfit/13C-22July11-VANB-1-vial 465/5/pdata/999/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-09-02T08:06:33.084-0300>,<kathy>,<Kathy>,<decon>,<TopSpin 4.4.0>,
+      <mdecon of
+	1 5 "13C-22July11-VANB-1-vial 465" "C:/Users/kathy/OneDrive - Dalhousie University/Graduate School/NMR/RustNMRfit"
+	F1P = 206.644825548432, F2P = 28.7144170896503, MI = 4, MAXI = 10000, ACFW = 0.5
+       data hash MD5: 256K
+       6A 5F 5E 87 56 EE 15 FB 1B BE 79 90 47 7A 1B 87>)
+##END=
+
+$$ hash MD5
+$$ 32 19 E5 6B 81 D8 73 E7 4D F3 75 71 F1 FE BA BC

@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TopSpin 3.6.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= lep
+$$ /home/lep/data/nmr/23Feb16-VANA-1-vial 240/5/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-02-16 18:53:14.423 -0500>,<lep>,<hrnmr400>,<go4>,<TopSpin 3.6.1>,
+      <created by zg
+	started at 2023-02-16 16:33:36.743 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       F0 97 2D A1 B8 B4 68 4C 14 EB D7 CD 50 AF 65 18
+       data hash MD5: 32404
+       F3 98 57 B7 46 1A 7A 84 EF 47 05 39 5B 35 B2 EE>)
+##END=
+
+$$ hash MD5
+$$ 99 41 26 D3 72 C1 94 53 D6 47 BB 3A 42 51 D5 B6

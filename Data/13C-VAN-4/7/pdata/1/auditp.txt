@@ -1,0 +1,35 @@
+##TITLE= Audit trail, TopSpin 3.6.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= lem
+$$ C:/Users/lem/Desktop/Mai/ICM-FY 22-23/NMR in FY 22-23/NMR-Student summer project/22July02-VAN-4-spl1/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2022-07-02 20:11:43.888 -0400>,<lep>,<hrnmr400>,<go4>,<TopSpin 3.6.1>,
+      <created by zg
+	started at 2022-07-02 17:52:06.195 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       57 D1 B0 76 13 23 FC DA 2D A6 F9 FB EC B3 C4 B8
+       data hash MD5: 32404
+       FA 86 D3 A9 08 0A C4 F3 7D 17 D7 02 52 84 EF 62>)
+(   2,<2022-07-03 05:33:10.524 -0400>,<DSNRCCA\lem>,<NRC-020260>,<proc1d>,<TopSpin 3.6.1>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = -34.69462 PHC1 = -98.4353 SI = 256K 
+       data hash MD5: 256K
+       F8 8D 48 F3 01 73 1D AB 65 B6 D3 54 BC 6B 2D BE>)
+(   3,<2022-07-03 05:33:12.840 -0400>,<DSNRCCA\lem>,<NRC-020260>,<proc1d>,<TopSpin 3.6.1>,
+      <apk 
+       data hash MD5: 256K
+       23 2E ED B3 7F CF 62 22 C6 DD C4 CD AA 55 55 E6>)
+(   4,<2022-07-03 05:33:40.085 -0400>,<DSNRCCA\lem>,<NRC-020260>,<proc1d>,<TopSpin 3.6.1>,
+      <pk fgphup PHC0 = -0.1594458 PHC1 = 0.35 
+       data hash MD5: 256K
+       59 D5 C6 B2 74 B9 1A CC B3 90 89 8A C1 10 05 06>)
+(   5,<2022-07-03 05:33:43.251 -0400>,<DSNRCCA\lem>,<NRC-020260>,<proc1d>,<TopSpin 3.6.1>,
+      <abs n ABSG = 3 
+       data hash MD5: 256K
+       D8 28 CA 31 2C D2 14 E0 FF 06 9C 19 62 5F 4E 8A>)
+##END=
+
+$$ hash MD5
+$$ 47 02 91 66 6A 6F 6A 40 A9 B4 5F 65 DA 9D 42 23

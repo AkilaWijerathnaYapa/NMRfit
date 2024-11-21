@@ -1,0 +1,45 @@
+##TITLE= Audit trail, TopSpin 3.6.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= lem
+$$ C:/Users/lem/Desktop/Mai-documents/Mai-FY 23-24/2H-qNMR measurements/2H-NMR data/2H-VAN-8-2023Nov28/35/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-11-28 22:55:56.338 -0500>,<root>,<ssnmr>,<go4>,<TopSpin 3.6.5>,
+      <created by zg on data set with UUID '27b528b6-8e57-11ee-b8e7-c8d9d223cae4'
+       started at 2023-11-28 20:32:27.514 -0500,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2023-11-28 22:55:56.338 -0500
+
+       configuration hash MD5:
+       4E 93 EC E4 61 CE 20 9E 5C 14 58 2A BF 90 7C 36
+       data hash MD5: 12284
+       8A FA A6 0F D1 18 91 E4 BE 25 43 15 BD 55 B8 F2>)
+(   2,<2023-11-29 12:07:26.977 -0500>,<DSNRCCA\lem>,<NRC-054978>,<proc1d>,<TopSpin 3.6.5>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = 76.33937 PHC1 = -12.13997 SI = 64K 
+       data hash MD5: 64K
+       47 56 C1 B6 C2 A8 B4 21 D4 9C 45 20 2F ED 4B 49>)
+(   3,<2023-11-29 12:07:28.549 -0500>,<DSNRCCA\lem>,<NRC-054978>,<proc1d>,<TopSpin 3.6.5>,
+      <apk 
+       data hash MD5: 64K
+       7F C0 00 72 5C DC CA 39 32 77 6B 34 54 67 B1 55>)
+(   4,<2023-11-29 12:08:13.681 -0500>,<DSNRCCA\lem>,<NRC-054978>,<proc1d>,<TopSpin 3.6.5>,
+      <pk fgphup PHC0 = -3.601917 PHC1 = 2.8 
+       data hash MD5: 64K
+       0D 26 E8 40 98 9F 29 95 E8 D9 1B EC 52 4A F7 5E>)
+(   5,<2023-11-29 12:08:17.721 -0500>,<DSNRCCA\lem>,<NRC-054978>,<proc1d>,<TopSpin 3.6.5>,
+      <abs n ABSG = 3 
+       data hash MD5: 64K
+       20 47 61 23 73 86 14 83 E4 73 8F 33 D6 B0 AA 04>)
+(   6,<2023-11-29 12:08:49.691 -0500>,<DSNRCCA\lem>,<NRC-054978>,<proc1d>,<TopSpin 3.6.5>,
+      <pk fgphup PHC0 = 0.7147217 PHC1 = -1.6 
+       data hash MD5: 64K
+       A0 AF FA 0A 2B FE 4F A6 7E C8 2B DA D6 49 8F 2C>)
+(   7,<2023-11-29 12:08:52.860 -0500>,<DSNRCCA\lem>,<NRC-054978>,<proc1d>,<TopSpin 3.6.5>,
+      <abs n ABSG = 3 
+       data hash MD5: 64K
+       4A D6 FF 91 B8 9D 10 1C 53 20 87 19 62 67 8D 05>)
+##END=
+
+$$ hash MD5
+$$ 60 CA F1 8A A5 46 78 F9 26 BF A1 21 39 FD 75 C6

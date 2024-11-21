@@ -1,0 +1,69 @@
+##TITLE= Audit trail, TopSpin 3.6.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= lep
+$$ /home/lep/data/nmr/22July07-VAN-1-spl1/8/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2022-07-07 23:18:34.450 -0400>,<lep>,<hrnmr400>,<go4>,<TopSpin 3.6.1>,
+      <created by zg
+	started at 2022-07-07 20:58:56.758 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       57 D1 B0 76 13 23 FC DA 2D A6 F9 FB EC B3 C4 B8
+       data hash MD5: 32404
+       1B 18 FD A7 F6 E9 71 9A 4B C4 2E 46 A1 64 CF F6>)
+(   2,<2022-07-08 11:37:28.075 -0400>,<lep>,<hrnmr400>,<proc1d>,<TopSpin 3.6.1>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = -33.6139 PHC1 = -98.7499 SI = 256K 
+       data hash MD5: 256K
+       89 FF D8 4E 64 EB 22 28 4E EC AE 2C DA E4 49 5C>)
+(   3,<2022-07-08 11:37:30.286 -0400>,<lep>,<hrnmr400>,<proc1d>,<TopSpin 3.6.1>,
+      <apk 
+       data hash MD5: 256K
+       56 23 E2 37 CD EB 4F 3F E9 7F 0E 78 E2 46 C5 5F>)
+(   4,<2022-07-08 11:37:51.419 -0400>,<lep>,<hrnmr400>,<proc1d>,<TopSpin 3.6.1>,
+      <pk fgphup PHC0 = -0.3503662 PHC1 = 0.8 
+       data hash MD5: 256K
+       9F 01 95 46 15 DE AB 1A 0B 24 99 FB A0 3E 6D 8D>)
+(   5,<2022-07-08 11:37:55.003 -0400>,<lep>,<hrnmr400>,<proc1d>,<TopSpin 3.6.1>,
+      <abs n ABSG = 3 
+       data hash MD5: 256K
+       B9 BF 1B DA 9E 95 49 E6 A2 A4 99 96 38 9F 07 81>)
+$$ C:/Users/kathy/OneDrive - Dalhousie University/Graduate School/NMR/RustNMRfit/13C-VAN-1 exp 4-9/8/pdata/1/auditp.txt
+(   6,<2024-09-02T05:37:50.827-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <Start of raw data processing
+       em LB = 2 SI = 256K 
+       data hash MD5: 256K
+       2F BA 94 56 0A A4 68 EE 4E EF D9 CF 74 97 56 11>)
+(   7,<2024-09-02T05:37:51.219-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <ft FT_mod = 6 PKNL = 1 SI = 256K 
+       data hash MD5: 256K
+       46 94 07 A0 E7 46 54 8D C9 72 27 7B 1C 44 6A 2E>)
+(   8,<2024-09-02T05:37:52.428-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <apk 
+       data hash MD5: 256K
+       26 0B 7F 2A 46 FC 74 ED C4 DB CB C1 3B 83 58 B6>)
+(   9,<2024-09-02T05:37:52.844-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <abs n ABSG = 3 
+       data hash MD5: 256K
+       3C D6 F4 DD 44 E0 88 C2 9B A5 76 12 12 42 0F D6>)
+(  10,<2024-09-02T05:37:53.072-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <pk fgphup PHC0 = 0 PHC1 = 0 
+       data hash MD5: 256K
+       3C D6 F4 DD 44 E0 88 C2 9B A5 76 12 12 42 0F D6>)
+(  11,<2024-09-02T05:38:19.909-0300>,<kathy>,<Kathy>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 256K
+       3C D6 F4 DD 44 E0 88 C2 9B A5 76 12 12 42 0F D6>)
+(  12,<2024-09-02T05:38:22.319-0300>,<kathy>,<Kathy>,<dataserver>,<TopSpin 4.4.0>,
+      <Start of interactive peak picking
+       data hash MD5: 256K
+       3C D6 F4 DD 44 E0 88 C2 9B A5 76 12 12 42 0F D6>)
+(  13,<2024-09-02T05:38:24.370-0300>,<kathy>,<Kathy>,<dataserver>,<TopSpin 4.4.0>,
+      <End of interactive peak picking
+       data hash MD5: 256K
+       3C D6 F4 DD 44 E0 88 C2 9B A5 76 12 12 42 0F D6>)
+##END=
+
+$$ hash MD5
+$$ 13 CC E1 3C A6 DF 1B 49 6A C8 89 8F 25 D4 68 F7

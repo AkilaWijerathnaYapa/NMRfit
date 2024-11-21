@@ -1,0 +1,97 @@
+##TITLE= Audit trail, TopSpin 3.6.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= lep
+$$ /home/lep/data/nmr/23Feb16-VANA-1-vial 240/10/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-02-06 12:00:09.173 -0500>,<lep>,<hrnmr400>,<go4>,<TopSpin 3.6.1>,
+      <created by zg
+	started at 2023-02-06 11:58:03.137 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       F0 97 2D A1 B8 B4 68 4C 14 EB D7 CD 50 AF 65 18
+       data hash MD5: 32404
+       C4 12 14 E8 ED 9F 1B D6 C2 62 ED C4 5E 6D 3B 8C>)
+(   2,<2023-02-06 12:01:19.801 -0500>,<lep>,<hrnmr400>,<proc1d>,<TopSpin 3.6.1>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = -35.57813 PHC1 = -102.9311 SI = 256K 
+       data hash MD5: 256K
+       DE 65 00 C3 B3 01 AB E2 69 B5 FB A2 1D EE AE 73>)
+(   3,<2023-02-06 12:01:21.876 -0500>,<lep>,<hrnmr400>,<proc1d>,<TopSpin 3.6.1>,
+      <apk 
+       data hash MD5: 256K
+       15 AB D4 9A 78 18 DD 88 C8 3D ED 5A E6 7F 3B 69>)
+(   4,<2023-02-16 10:56:31.706 -0500>,<lep>,<hrnmr400>,<dirdata>,<TopSpin 3.6.1>,
+      <wrpa from 1 2 "23Feb06-VANA-1-vial 9" "/home/lep/data/nmr"
+       data hash MD5: 256K
+       15 AB D4 9A 78 18 DD 88 C8 3D ED 5A E6 7F 3B 69>)
+(   5,<2023-02-16 11:02:40.662 -0500>,<lep>,<hrnmr400>,<audit>,<TopSpin 3.6.1>,
+      <user comment:
+       TITLE=23Feb16-VANA-1-vial 240
+       fresh sample good p1TITLE_END
+       data hash MD5: 256K
+       15 AB D4 9A 78 18 DD 88 C8 3D ED 5A E6 7F 3B 69>)
+(   6,<2023-02-16 11:03:18.072 -0500>,<lep>,<hrnmr400>,<dirdata>,<TopSpin 3.6.1>,
+      <wrpa from 1 1 "23Feb16-VANA-1-vial 240" "/home/lep/data/nmr"
+       data hash MD5: 256K
+       15 AB D4 9A 78 18 DD 88 C8 3D ED 5A E6 7F 3B 69>)
+(   7,<2023-02-16 11:03:44.496 -0500>,<lep>,<hrnmr400>,<audit>,<TopSpin 3.6.1>,
+      <user comment:
+       TITLE=23Feb16-VANA-1-vial 240
+       fresh sample - 0.1 mM
+       test 1TITLE_END
+       data hash MD5: 256K
+       15 AB D4 9A 78 18 DD 88 C8 3D ED 5A E6 7F 3B 69>)
+(   8,<2023-02-16 11:48:33.263 -0500>,<lep>,<hrnmr400>,<dirdata>,<TopSpin 3.6.1>,
+      <wrpa from 1 4 "23Feb16-VANA-1-vial 240" "/home/lep/data/nmr"
+       data hash MD5: 256K
+       15 AB D4 9A 78 18 DD 88 C8 3D ED 5A E6 7F 3B 69>)
+(   9,<2023-02-16 11:48:47.052 -0500>,<lep>,<hrnmr400>,<audit>,<TopSpin 3.6.1>,
+      <user comment:
+       TITLE=23Feb16-VANA-1-vial 240
+       fresh sample - 0.1 mM
+       testTITLE_END
+       data hash MD5: 256K
+       15 AB D4 9A 78 18 DD 88 C8 3D ED 5A E6 7F 3B 69>)
+$$ C:/Users/kathy/OneDrive - Dalhousie University/Graduate School/NMR/RustNMRfit/13C-23Feb16-VANA-1-vial 240/10/pdata/1/auditp.txt
+(  10,<2024-09-02T07:59:18.207-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <Start of raw data processing
+       em LB = 2 SI = 256K 
+       data hash MD5: 256K
+       C8 7D EA 34 DC A8 69 F9 D1 27 36 E7 D9 AD F9 0B>)
+(  11,<2024-09-02T07:59:18.453-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <ft FT_mod = 6 PKNL = 1 SI = 256K 
+       data hash MD5: 256K
+       7D 3A 66 1D 8D D0 26 13 53 DA FF 0B DB 8A 0B FA>)
+(  12,<2024-09-02T07:59:19.734-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <apk 
+       data hash MD5: 256K
+       14 AD C9 C3 45 1A E8 C3 56 87 93 B3 13 D1 2A 2D>)
+(  13,<2024-09-02T07:59:20.329-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <abs n ABSG = 3 
+       data hash MD5: 256K
+       CD 1B 4B 7E 16 E6 E2 10 56 19 BE B3 F4 32 FF 69>)
+(  14,<2024-09-02T07:59:22.145-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <pk fgphup PHC0 = 0 PHC1 = 0 
+       data hash MD5: 256K
+       CD 1B 4B 7E 16 E6 E2 10 56 19 BE B3 F4 32 FF 69>)
+(  15,<2024-09-02T07:59:24.576-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <bcm 0 0 262144 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 
+       data hash MD5: 256K
+       CD 1B 4B 7E 16 E6 E2 10 56 19 BE B3 F4 32 FF 69>)
+(  16,<2024-09-02T07:59:33.491-0300>,<kathy>,<Kathy>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 256K
+       CD 1B 4B 7E 16 E6 E2 10 56 19 BE B3 F4 32 FF 69>)
+(  17,<2024-09-02T07:59:35.783-0300>,<kathy>,<Kathy>,<dataserver>,<TopSpin 4.4.0>,
+      <Start of interactive peak picking
+       data hash MD5: 256K
+       CD 1B 4B 7E 16 E6 E2 10 56 19 BE B3 F4 32 FF 69>)
+(  18,<2024-09-02T07:59:37.387-0300>,<kathy>,<Kathy>,<dataserver>,<TopSpin 4.4.0>,
+      <End of interactive peak picking
+       data hash MD5: 256K
+       CD 1B 4B 7E 16 E6 E2 10 56 19 BE B3 F4 32 FF 69>)
+##END=
+
+$$ hash MD5
+$$ 3F D5 69 DE 95 2A 09 EC ED 1D 59 19 7D 44 F8 AE

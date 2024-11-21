@@ -1,0 +1,30 @@
+##TITLE= Audit trail, TopSpin 3.6.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= lep
+$$ /home/lep/data/nmr/23Feb16-VANA-1-vial 240/10/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-02-06 12:00:09.173 -0500>,<lep>,<hrnmr400>,<go4>,<TopSpin 3.6.1>,
+      <created by zg
+	started at 2023-02-06 11:58:03.137 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       F0 97 2D A1 B8 B4 68 4C 14 EB D7 CD 50 AF 65 18
+       data hash MD5: 32404
+       C4 12 14 E8 ED 9F 1B D6 C2 62 ED C4 5E 6D 3B 8C>)
+(   2,<2023-02-16 10:56:31.697 -0500>,<lep>,<hrnmr400>,<dirdata>,<TopSpin 3.6.1>,
+      <wrpa from 1 2 "23Feb06-VANA-1-vial 9" "/home/lep/data/nmr"
+       data hash MD5: 32404
+       C4 12 14 E8 ED 9F 1B D6 C2 62 ED C4 5E 6D 3B 8C>)
+(   3,<2023-02-16 11:03:18.063 -0500>,<lep>,<hrnmr400>,<dirdata>,<TopSpin 3.6.1>,
+      <wrpa from 1 1 "23Feb16-VANA-1-vial 240" "/home/lep/data/nmr"
+       data hash MD5: 32404
+       C4 12 14 E8 ED 9F 1B D6 C2 62 ED C4 5E 6D 3B 8C>)
+(   4,<2023-02-16 11:48:33.253 -0500>,<lep>,<hrnmr400>,<dirdata>,<TopSpin 3.6.1>,
+      <wrpa from 1 4 "23Feb16-VANA-1-vial 240" "/home/lep/data/nmr"
+       data hash MD5: 32404
+       C4 12 14 E8 ED 9F 1B D6 C2 62 ED C4 5E 6D 3B 8C>)
+##END=
+
+$$ hash MD5
+$$ CF 0F D8 4C D5 17 55 A6 89 4D E1 98 75 7C B0 DE

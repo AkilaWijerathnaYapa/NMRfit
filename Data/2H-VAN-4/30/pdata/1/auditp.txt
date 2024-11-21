@@ -1,0 +1,37 @@
+##TITLE= Audit trail, TopSpin 3.6.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= lem
+$$ C:/Users/lem/Desktop/Mai-documents/Mai-FY 23-24/2H-qNMR measurements/2H-NMR data/2H-VAN-4-2023Nov27/30/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-11-28 03:55:12.373 -0500>,<root>,<ssnmr>,<go4>,<TopSpin 3.6.5>,
+      <created by zg on data set with UUID 'd03d8852-8db7-11ee-b355-c8d9d223cae4'
+       started at 2023-11-28 01:31:50.822 -0500,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2023-11-28 03:55:12.373 -0500
+
+       configuration hash MD5:
+       4E 93 EC E4 61 CE 20 9E 5C 14 58 2A BF 90 7C 36
+       data hash MD5: 12284
+       D2 31 30 D5 BC 26 B1 F6 C6 A5 A9 61 00 F3 64 CD>)
+(   2,<2023-11-28 19:07:56.688 -0500>,<DSNRCCA\lem>,<NRC-054978>,<proc1d>,<TopSpin 3.6.5>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = 79.42622 PHC1 = -16.76678 SI = 64K 
+       data hash MD5: 64K
+       15 19 C5 EF AF C8 60 00 F0 38 AA B2 05 6C 63 9A>)
+(   3,<2023-11-28 19:07:58.967 -0500>,<DSNRCCA\lem>,<NRC-054978>,<proc1d>,<TopSpin 3.6.5>,
+      <apk 
+       data hash MD5: 64K
+       3B 9E E9 D1 9D 8D C6 B8 A7 56 0A 09 0E EF 7F C4>)
+(   4,<2023-11-28 19:08:31.014 -0500>,<DSNRCCA\lem>,<NRC-054978>,<proc1d>,<TopSpin 3.6.5>,
+      <pk fgphup PHC0 = -5.860644 PHC1 = 6.4 
+       data hash MD5: 64K
+       DD 49 52 B6 2F CF 4A C2 AE C9 D1 FF CD 25 82 23>)
+(   5,<2023-11-28 19:08:34.802 -0500>,<DSNRCCA\lem>,<NRC-054978>,<proc1d>,<TopSpin 3.6.5>,
+      <abs n ABSG = 3 
+       data hash MD5: 64K
+       83 C7 72 68 A8 99 15 50 70 BD D1 53 E5 E0 9E 4C>)
+##END=
+
+$$ hash MD5
+$$ D1 87 79 23 EF E7 7F 67 87 42 36 E4 F5 84 C6 5A

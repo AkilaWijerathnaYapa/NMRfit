@@ -1,0 +1,81 @@
+##TITLE= Audit trail, TopSpin 3.6.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= lem
+$$ C:/Users/lem/Desktop/Mai/ICM-FY 22-23/NMR in FY 22-23/NMR-Student summer project/22July11-VANB-1-vial 465/9/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2022-07-12 02:58:04.651 -0400>,<lep>,<hrnmr400>,<go4>,<TopSpin 3.6.1>,
+      <created by zg
+	started at 2022-07-12 00:38:26.976 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       57 D1 B0 76 13 23 FC DA 2D A6 F9 FB EC B3 C4 B8
+       data hash MD5: 32404
+       73 03 12 E6 21 72 0C 38 F0 D6 EA 6F 62 5A B2 07>)
+(   2,<2022-07-12 13:33:04.403 -0400>,<DSNRCCA\lem>,<NRC-020260>,<proc1d>,<TopSpin 3.6.1>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = -31.82379 PHC1 = -104.7611 SI = 256K 
+       data hash MD5: 256K
+       CC 0E 74 F1 DA 04 B7 C6 8D D5 D1 ED BB B5 CD 25>)
+(   3,<2022-07-12 13:33:07.463 -0400>,<DSNRCCA\lem>,<NRC-020260>,<proc1d>,<TopSpin 3.6.1>,
+      <apk 
+       data hash MD5: 256K
+       46 B2 DE 3C 51 F4 EE E4 AD 77 D2 99 55 15 92 37>)
+(   4,<2022-07-12 13:33:27.807 -0400>,<DSNRCCA\lem>,<NRC-020260>,<proc1d>,<TopSpin 3.6.1>,
+      <pk fgphup PHC0 = 0.3421535 PHC1 = -0.525 
+       data hash MD5: 256K
+       85 68 FF 71 CB C0 77 A0 70 D2 13 51 EE 47 6F 99>)
+(   5,<2022-07-12 13:33:30.805 -0400>,<DSNRCCA\lem>,<NRC-020260>,<proc1d>,<TopSpin 3.6.1>,
+      <abs n ABSG = 3 
+       data hash MD5: 256K
+       B7 C6 0A 54 5A 7F 98 D6 60 45 F4 B9 1E CC 2C EA>)
+$$ C:/Users/kathy/OneDrive - Dalhousie University/Graduate School/NMR/RustNMRfit/13C-22July11-VANB-1-vial 465/9/pdata/1/auditp.txt
+(   6,<2024-09-02T08:12:40.145-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <Start of raw data processing
+       em LB = 2 SI = 256K 
+       data hash MD5: 256K
+       6F C0 F1 0D 06 8F 58 A9 F9 21 3F 37 58 04 00 90>)
+(   7,<2024-09-02T08:12:40.515-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <ft FT_mod = 6 PKNL = 1 SI = 256K 
+       data hash MD5: 256K
+       D5 7D 24 69 B0 80 E7 B0 B5 7A B6 31 1B 56 C7 D1>)
+(   8,<2024-09-02T08:12:42.311-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <apk 
+       data hash MD5: 256K
+       62 2D 09 C7 91 31 CF 8C 50 24 83 3F A9 8A FB 4B>)
+(   9,<2024-09-02T08:12:42.685-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <abs n ABSG = 3 
+       data hash MD5: 256K
+       7A 33 BF 80 7C CE F4 13 AE E8 EA 50 C7 95 30 B6>)
+(  10,<2024-09-02T08:12:46.229-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <pk fgphup PHC0 = 0 PHC1 = 0 
+       data hash MD5: 256K
+       7A 33 BF 80 7C CE F4 13 AE E8 EA 50 C7 95 30 B6>)
+(  11,<2024-09-02T08:12:48.512-0300>,<kathy>,<Kathy>,<proc1d>,<TopSpin 4.4.0>,
+      <bcm 0 0 262144 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 
+       data hash MD5: 256K
+       7A 33 BF 80 7C CE F4 13 AE E8 EA 50 C7 95 30 B6>)
+(  12,<2024-09-02T08:12:56.645-0300>,<kathy>,<Kathy>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 256K
+       7A 33 BF 80 7C CE F4 13 AE E8 EA 50 C7 95 30 B6>)
+(  13,<2024-09-02T08:12:59.232-0300>,<kathy>,<Kathy>,<dataserver>,<TopSpin 4.4.0>,
+      <Start of interactive peak picking
+       data hash MD5: 256K
+       7A 33 BF 80 7C CE F4 13 AE E8 EA 50 C7 95 30 B6>)
+(  14,<2024-09-02T08:13:01.082-0300>,<kathy>,<Kathy>,<dataserver>,<TopSpin 4.4.0>,
+      <End of interactive peak picking
+       data hash MD5: 256K
+       7A 33 BF 80 7C CE F4 13 AE E8 EA 50 C7 95 30 B6>)
+(  15,<2024-09-02T08:13:19.512-0300>,<kathy>,<Kathy>,<dataserver>,<TopSpin 4.4.0>,
+      <Start of interactive peak picking
+       data hash MD5: 256K
+       7A 33 BF 80 7C CE F4 13 AE E8 EA 50 C7 95 30 B6>)
+(  16,<2024-09-02T08:13:20.854-0300>,<kathy>,<Kathy>,<dataserver>,<TopSpin 4.4.0>,
+      <End of interactive peak picking
+       data hash MD5: 256K
+       7A 33 BF 80 7C CE F4 13 AE E8 EA 50 C7 95 30 B6>)
+##END=
+
+$$ hash MD5
+$$ 32 92 24 81 D0 2A E2 E4 50 75 FB BA 03 24 93 E3

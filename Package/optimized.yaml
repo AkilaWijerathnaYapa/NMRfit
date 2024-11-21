@@ -1,0 +1,117 @@
+---
+processing:
+  zf: 1.0
+  lb: 1.0
+  phase: true
+  reference:
+    ppm: 2.00
+    threshold: 0.5
+
+parameters:
+  width: 1
+  fraction: 0
+
+general_bounds:
+  width: [0.3, 6]
+
+offset_bounds:
+  position: [-0.1, 0.1]
+  height: [-0.3, 0.3]
+
+ranges:
+  cutoff: 0.05
+
+baseline:
+  span: 4.0
+  degree: 3
+
+phase:
+  order: 1
+  bounds: 360
+
+
+---
+dataset: "1"
+path: "D:\\NMRfit\\Data\\2H-VAN-1"
+
+---
+dataset: "4"
+path: "D:\\NMRfit\\Data\\2H-VAN-4"
+
+---
+dataset: "8"
+path: "D:\\NMRfit\\Data\\2H-VAN-8"
+
+---
+dataset: "HR"
+path: "D:\\NMRfit\\Data\\2H-VAN-HR"
+
+---
+dataset: "K"
+path: "D:\\NMRfit\\Data\\2H-VAN-K"
+
+---
+species: "vanillin"
+resonances: 
+  "9.82 s": H1
+  "8.29 s": H2 
+  "7.45 s": H3 
+  "7.05 s": H4
+  "3.91 s": H5
+
+
+---
+species: "TMU"
+resonances: "2.82 s"
+
+
+---
+species: "solvent" 
+resonances: "2.00 s"
+
+
+---
+plot: "data_r"
+experiments: "*"
+species: ""
+
+
+---
+fit: "all"
+ppm: [0, 10]
+species: "*"
+
+
+---
+plot: "H1-5"
+ppm: [0, 12]
+experiments: "*"
+species: "*"
+
+
+---
+plot: "H1-5_i"
+ppm: [0, 12]
+component: i
+experiments: "*"
+species: "*"
+
+
+---
+calculate_areas: "ratio_stats"
+sum_by: "resonance"
+normalize_by: "TMU::2.82 s"
+summarize: true
+
+---
+calculate_areas: "area_stats"
+sum_by: "resonance"
+summarize: true
+
+---
+calculate_areas: "raw_areas"
+sum_by: "resonance"
+
+
+---
+list_parameters: "parameters"
