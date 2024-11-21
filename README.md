@@ -1,5 +1,7 @@
 # NMRfit
 
+#### Stanislav Sokolenko <stanislav.sokolenko@dal.ca>
+
 ## Overview
 
 NMRfit is a software package for fitting NMR data using customizable YAML configuration files. It processes data files and outputs results in a user-specified format.
