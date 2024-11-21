@@ -1,8 +1,10 @@
 ---
 title: "NMRfit" # Title of the document
 author: "Stanislav Sokolenko"
+
 ---
 
+#### Stanislav Sokolenko <stanislav.sokolenko@dal.ca>
 
 ## Overview
 
