@@ -172,6 +172,7 @@ When the software is executed, the results will be saved in the `Package/fit/opt
 
 
 
+
 Below is a description of the output files generated:
   
 - **`ratio_stats.csv`**: 
@@ -217,3 +218,47 @@ Below is a description of the output files generated:
 ---
 
 ## FAQs
+
+### Q1: Why does the software not run after modifying the `optimized.yaml` file?
+**A1:** The YAML file structure is sensitive to formatting. Ensure there are no extra spaces, incorrect indentation, or unintended characters. Pay special attention to separators (`---`) between sections; having multiple or misplaced separators can cause parsing errors.
+
+
+### Q2: Why am I getting an error when running `rnmrfit.exe` on Windows?
+**A2:** This can happen if the path to your `.yaml` file is incorrect or contains special characters. Ensure the `.yaml` file is in the same directory as `rnmrfit.exe`, and use relative paths without spaces or special characters.
+
+
+### Q3: Can I process multiple datasets simultaneously?
+**A3:** Yes, use the `fit_all.bat` script, which processes all `.yaml` files in the directory. Ensure each `.yaml` file is correctly configured with unique dataset paths.
+
+
+### Q4: Why are my output files empty or missing key data?
+**A4:** This could happen if:
+- Your `optimized.yaml` file references incorrect or non-existent dataset paths.
+- The fitting parameters or bounds are too restrictive, causing the software to fail to identify peaks.
+
+Double-check your input file paths, parameters, and resonance settings in the YAML configuration.
+
+
+### Q5: How can I fix the issue of multiple separators (`---`) in the YAML file?
+**A5:** Open the `optimized.yaml` file in a text editor and ensure there is only one separator (`---`) at the start of each section. Extra separators, especially blank ones, can lead to parsing errors.
+
+
+### Q6: Why are my baseline corrections or phase adjustments not working as expected?
+**A6:** The baseline and phase parameters in the YAML file must be fine-tuned for your specific data. Adjust the `span`, `polynomial degree`, and `phase order` settings to suit the noise level and signal profile of your dataset.
+
+
+### Q7: What should I do if the software crashes during execution?
+**A7:** Check for the following:
+- Invalid YAML configuration (e.g., syntax errors or incorrect paths).
+- Missing or incompatible data files in the specified `Data` directory.
+- Ensure your system meets the software requirements and has sufficient resources for processing.
+
+
+### Q8: Where can I find examples for YAML configuration files?
+**A8:** A sample `optimized.yaml` file is included in the `Package` folder. Use this as a template to configure your own datasets and parameters.
+
+
+### Q9: How do I interpret the output files?
+**A9:** Refer to the descriptions under the **Output Files** section of this README. For example:
+- Use `ratio_stats.csv` for area ratio calculations.
+- `data_r.html` and `H1-5.html` provide interactive plots for detailed visualization.
